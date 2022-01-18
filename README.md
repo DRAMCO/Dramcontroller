@@ -1,7 +1,7 @@
 # Dramcontroller
-HID controller board design for Engineering Experience 2
-Below the periferals with corresponding pins are described. 
-A distinction between the on-board periferals, I2C addresses and sensor slots makes this pin overview clear. 
+HID controller board design for Engineering Experience 2.
+The periferals with corresponding pins are described below. 
+A distinction is made between the on-board periferals, I2C addresses and sensor slots
 
 ## On board periferals
 | Periferal | Corresponding GPIO Pin  |
