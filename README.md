@@ -17,10 +17,10 @@ Four IO expanders connected with the I2C bus control the 7 segment displays, led
 
 | IO Expander | Corresponding I2C addres  |
 |---|---|
-| Segment display 1 | 0x38 |
+| Sensor slot GPIO 3 | 0x38 |
 | Segment display 2 | 0x39 |
-| Led array | 0x3A |
-| Sensor slot GPIO 3 | 0x3B |
+| Segment display 1 | 0x3A |
+| Led array | 0x3B |
 
 
 ## Sensor slots
